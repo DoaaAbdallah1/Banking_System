@@ -5,4 +5,5 @@ void main() {
   print("Hello World");
   String name = stdin.readLineSync()!;
   print("name is $name");
+  print("name is $name");
 }
